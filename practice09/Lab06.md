@@ -17,7 +17,3 @@ end`
 반전신호를 받고, 현재신호를 오른편에 두고 이전신호를 왼편에 표기한 한다.
 	1, 0이 한 term으로 바라보며, Custom code(16bits),  Data code(8 bits), Data code(8 bits) 총 32bits 를 구성한다.`
 [](https://github.com/Simsoobin/LogicDesign/blob/master/practice09/11.26.PNG)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzEyNTgzNF19
--->
